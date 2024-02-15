@@ -9,3 +9,7 @@ _Neural Trajectories in the Supplementary Motor Area and Motor Cortex Exhibit Di
 
 
 
+### Review Papers
+_Neural Manifolds for the Control of Movement_: [Gallego et al 2017](https://pubmed.ncbi.nlm.nih.gov/28595054/)
+
+

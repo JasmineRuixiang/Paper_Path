@@ -10,6 +10,6 @@ _Neural Trajectories in the Supplementary Motor Area and Motor Cortex Exhibit Di
 
 
 ### Review Papers
-_Neural Manifolds for the Control of Movement_: [Gallego et al 2017](https://pubmed.ncbi.nlm.nih.gov/28595054/)
+_Neural Manifolds for the Control of Movement_: [Gallego et al 2017](https://pubmed.ncbi.nlm.nih.gov/28595054/) emphasized 1) the connections between neural connectivity and the constrained and thus low dimensional latent variable manifold; 2) neural modes in motor cortices(1] population variability in PMd is reduced by stimulus presentation, 2] the timeline of studies on the orthogonal potent/null spaces for movement and preparatory activities); 3) learning and connectivity which affect the latent manifold (1] CMU Sadtler & Byron Yu perturbation and learning within/outside of latent space, 2]Sussilo training RNN to represent learning, 3] balanced neural networks also exhibited oscillatory behaviors)
 
 

@@ -1,6 +1,6 @@
 # Paper_Path
 
-This is a repo for important papers that shape my scientific view in computational neuroscience and neuroengineering.
+This is a repo for important papers that shape my scientific views of computational neuroscience and neuroengineering (especially Brain Computer Interfacing).
 
 
 ### Population Dynamics

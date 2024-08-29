@@ -32,7 +32,7 @@ This is a repo for important papers that shape my scientific views of computatio
 
 
 ### Review Papers
-1) __From the neuron doctrine to neural networks__: [Yuste 2015](https://www.nature.com/articles/nrn3962) nicedly summarized the transition from the earlier age of neural doctrine to later research dominated by neural networks (which I term Antique Neural Network in Zotero), which is a nice intermediary stage into the present-day neural population dynamics models by state-of-the-art ML/DL models.
+1) __From the Neuron Doctrine to Neural Networks__: [Yuste 2015](https://www.nature.com/articles/nrn3962) nicedly summarized the transition from the earlier age of neural doctrine to later research dominated by neural networks (which I term Antique Neural Network in Zotero), which is a nice intermediary stage into the present-day neural population dynamics models by state-of-the-art ML/DL models.
 
 2) __Neural Manifolds for the Control of Movement__: [Gallego et al 2017](https://pubmed.ncbi.nlm.nih.gov/28595054/) emphasized 1) the connections between neural connectivity and the constrained and thus low dimensional latent variable manifold; 2) neural modes in motor cortices(1] population variability in PMd is reduced by stimulus presentation, 2] the timeline of studies on the orthogonal potent/null spaces for movement and preparatory activities); 3) learning and connectivity which affect the latent manifold (1] CMU Sadtler & Byron Yu perturbation and learning within/outside of latent space, 2]Sussilo training RNN to represent learning, 3] balanced neural networks also exhibited oscillatory behaviors)
 
